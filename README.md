@@ -31,3 +31,4 @@ Links to my favorite software books, talks, articles, videos, etc.
 - [Semantic Line Breaks](https://sembr.org/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
+- [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
