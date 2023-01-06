@@ -32,3 +32,5 @@ Links to my favorite software books, talks, articles, videos, etc.
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
 - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+- [10 Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+- [Laws of Software](https://www.laws-of-software.com/)
