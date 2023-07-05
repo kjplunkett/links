@@ -34,3 +34,4 @@ Links to my favorite software books, talks, articles, videos, etc.
 - [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 - [10 Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Laws of Software](https://www.laws-of-software.com/)
+- [History of Email](https://youtu.be/mrGfahzt-4Q)
